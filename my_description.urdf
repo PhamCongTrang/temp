@@ -1,0 +1,16 @@
+<link name="arm_link">
+    <visual>
+        <geometry>
+        <origin>
+        <material>
+    </visual>
+    <conllision>
+        <geometry>
+        <origin>
+    </conllision>
+    <inertial>
+        <mass>
+        <origin>
+        <inertial>
+    </inertial>
+</link>
